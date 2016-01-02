@@ -22,3 +22,4 @@ The navigation will be able to be transpaernt on the homepage showing the featur
 * screenshot.png images: http://pixabay.com/en/man-person-shirt-bow-tie-suspender-407095/, http://pixabay.com/en/radio-television-grunge-chair-407112/, http://pixabay.com/en/wristwatch-watch-time-gadget-407096/ - [CC0] 
 * /images/default-background.jpg http://www.pexels.com/photo/2286/ [CC0]
 * /fonts/ http://typicons.com/ - (C) 2014 Stephen Hutchings - [SIL Open Font License]
+# dantemunoz.com
